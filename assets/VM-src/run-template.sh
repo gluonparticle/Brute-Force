@@ -7,5 +7,5 @@ pip install playwright requests
 sudo /home/sargunsingh20062017/project/venv/bin/playwright install-deps 
 sudo /home/sargunssingh20062017/project/venv/bin/pip install playwright
 playwright install
-
-python3 bruteforce.py
+cd
+rm bruteforce.py
